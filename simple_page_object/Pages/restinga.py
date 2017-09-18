@@ -1,5 +1,5 @@
-from pybot.components.pageObject import PageObject
-from pybot.components.pageElement import PageElement, PageElements
+from pybot.core.pageObject import PageObject
+from pybot.core.pageElement import PageElement, PageElements
 
 
 class restingaPage(PageObject):

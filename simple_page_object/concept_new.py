@@ -1,4 +1,4 @@
-from pybot.components.manager import Manager
+from pybot.core.manager import Manager
 from Pages.restinga import restingaPage
 
 
